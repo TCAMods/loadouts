@@ -1,0 +1,29 @@
+{
+	"Name": "Dogfight (Home)",
+	"Author": "Hanz",
+	"Description": "Faster take off and better ammunitions",
+	"Version": "1.0.0",
+	"NormalizedFuel": 0.4,
+	"Stores": [
+		{
+			"Station": 1,
+			"Name": "AIM9L",
+			"Count": 1
+		},
+		{
+			"Station": 2,
+			"Name": "AIM82B",
+			"Count": 5
+		},
+		{
+			"Station": 6,
+			"Name": "AIM82B",
+			"Count": 5
+		},
+		{
+			"Station": 7,
+			"Name": "AIM9L",
+			"Count": 1
+		}
+	]
+},
