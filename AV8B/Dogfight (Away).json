@@ -1,0 +1,29 @@
+{
+  "Name": "Dogfight (Away)",
+  "Author": "Hanz",
+  "Description": "Better endurance and additional long range missile arsenal",
+  "Version": "1.0.0",
+  "NormalizedFuel": 1.0,
+  "Stores": [
+    {
+      "Station": 1,
+      "Name": "AIM9L",
+      "Count": 2
+    },
+    {
+      "Station": 2,
+      "Name": "AIM82B",
+      "Count": 3
+    },
+    {
+      "Station": 6,
+      "Name": "AIM82B",
+      "Count": 3
+    },
+    {
+      "Station": 7,
+      "Name": "AIM9L",
+      "Count": 2
+    }
+  ]
+},
